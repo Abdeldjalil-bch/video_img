@@ -1,0 +1,4 @@
+# Requirements pour App 1 - Extracteur de Frames Vidéo
+streamlit>=1.28.0
+opencv-python>=4.8.0
+pathlib2>=2.3.7
